@@ -1,6 +1,6 @@
 # docker-v2fly-privoxy
 
-v2ray 结合 privoxy 来使用 gfwlist 规则来实现代理过滤, 并实现 socks5 代理转 http 代理，适用于群晖。
+Docker版v2ray客户端,v2ray 结合 privoxy 来使用 gfwlist 规则来实现代理过滤, 并实现 socks5 代理转 http 代理，适用于群晖。
 
 > DockerHub: https://hub.docker.com/r/jaegerdocker/v2fly-privoxy
 
